@@ -65,4 +65,20 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
