@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Math
 |  |
@@ -33,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AjaySinghMehta/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Prefix Sum
 |  |
@@ -91,4 +94,8 @@
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+## Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
