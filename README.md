@@ -20,6 +20,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AjaySinghMehta/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/AjaySinghMehta/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Counting
 |  |
 | ------- |
