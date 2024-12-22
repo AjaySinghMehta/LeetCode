@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/AjaySinghMehta/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AjaySinghMehta/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/0013-roman-to-integer) |
+| [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Backtracking
 |  |
@@ -72,6 +75,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/AjaySinghMehta/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -114,6 +118,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
