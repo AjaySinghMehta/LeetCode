@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/AjaySinghMehta/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AjaySinghMehta/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
+| [0219-contains-duplicate-ii](https://github.com/AjaySinghMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/AjaySinghMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
@@ -75,6 +77,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AjaySinghMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
