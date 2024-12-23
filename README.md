@@ -87,6 +87,7 @@
 | [0046-permutations](https://github.com/AjaySinghMehta/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AjaySinghMehta/LeetCode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/AjaySinghMehta/LeetCode/tree/master/0401-binary-watch) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -151,6 +152,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/AjaySinghMehta/LeetCode/tree/master/0401-binary-watch) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
