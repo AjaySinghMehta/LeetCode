@@ -16,6 +16,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/AjaySinghMehta/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Binary Search Tree
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
