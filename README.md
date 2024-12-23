@@ -180,4 +180,12 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
