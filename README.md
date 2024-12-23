@@ -88,6 +88,7 @@
 | [0051-n-queens](https://github.com/AjaySinghMehta/LeetCode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/AjaySinghMehta/LeetCode/tree/master/0401-binary-watch) |
+| [0813-all-paths-from-source-to-target](https://github.com/AjaySinghMehta/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -138,11 +139,13 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/AjaySinghMehta/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/AjaySinghMehta/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,4 +226,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/AjaySinghMehta/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
