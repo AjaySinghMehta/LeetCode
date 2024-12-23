@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/AjaySinghMehta/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AjaySinghMehta/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AjaySinghMehta/LeetCode/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/AjaySinghMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0046-permutations](https://github.com/AjaySinghMehta/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AjaySinghMehta/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/AjaySinghMehta/LeetCode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/AjaySinghMehta/LeetCode/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/AjaySinghMehta/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -155,6 +157,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AjaySinghMehta/LeetCode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/AjaySinghMehta/LeetCode/tree/master/0401-binary-watch) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
