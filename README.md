@@ -54,6 +54,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AjaySinghMehta/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0046-permutations](https://github.com/AjaySinghMehta/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AjaySinghMehta/LeetCode/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -127,11 +129,13 @@
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
@@ -141,6 +145,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Bit Manipulation
