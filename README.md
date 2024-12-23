@@ -44,6 +44,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1013-fibonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## String
 |  |
@@ -155,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -188,4 +190,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
