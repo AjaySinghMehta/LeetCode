@@ -51,6 +51,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AjaySinghMehta/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
