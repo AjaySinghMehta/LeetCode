@@ -63,6 +63,7 @@
 | [0800-letter-case-permutation](https://github.com/AjaySinghMehta/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/AjaySinghMehta/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AjaySinghMehta/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -102,6 +103,7 @@
 | [0800-letter-case-permutation](https://github.com/AjaySinghMehta/LeetCode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/AjaySinghMehta/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/AjaySinghMehta/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AjaySinghMehta/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -257,4 +259,12 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Design
+|  |
+| ------- |
+| [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
+## Iterator
+|  |
+| ------- |
+| [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
 <!---LeetCode Topics End-->
