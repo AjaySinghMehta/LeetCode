@@ -19,6 +19,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/AjaySinghMehta/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -160,8 +161,17 @@
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
