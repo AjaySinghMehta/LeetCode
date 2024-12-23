@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -187,11 +189,13 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AjaySinghMehta/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AjaySinghMehta/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
