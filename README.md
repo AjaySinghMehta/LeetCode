@@ -120,10 +120,12 @@
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +157,11 @@
 ## Stack
 |  |
 | ------- |
+| [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
