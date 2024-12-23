@@ -32,6 +32,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AjaySinghMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -48,6 +49,7 @@
 | [0013-roman-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AjaySinghMehta/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -89,6 +91,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/AjaySinghMehta/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
