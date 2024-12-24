@@ -76,6 +76,7 @@
 | [0014-longest-common-prefix](https://github.com/AjaySinghMehta/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0394-decode-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0394-decode-string) |
 | [0800-letter-case-permutation](https://github.com/AjaySinghMehta/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/AjaySinghMehta/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -274,6 +276,7 @@
 | [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
