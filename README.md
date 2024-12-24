@@ -27,6 +27,7 @@
 | [1755-defuse-the-bomb](https://github.com/AjaySinghMehta/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -63,6 +64,7 @@
 | [1013-fibonacci-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/AjaySinghMehta/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
@@ -235,11 +237,13 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -262,6 +266,7 @@
 | [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
