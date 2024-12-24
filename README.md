@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
@@ -224,6 +225,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/0682-baseball-game) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AjaySinghMehta/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AjaySinghMehta/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/AjaySinghMehta/LeetCode/tree/master/0816-design-hashset) |
@@ -273,6 +276,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AjaySinghMehta/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AjaySinghMehta/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
