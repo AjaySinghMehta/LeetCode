@@ -321,6 +321,7 @@
 | [0816-design-hashset](https://github.com/AjaySinghMehta/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
+| [1955-seat-reservation-manager](https://github.com/AjaySinghMehta/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Iterator
 |  |
 | ------- |
@@ -335,5 +336,6 @@
 | ------- |
 | [1127-last-stone-weight](https://github.com/AjaySinghMehta/LeetCode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1955-seat-reservation-manager](https://github.com/AjaySinghMehta/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
