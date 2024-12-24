@@ -26,6 +26,7 @@
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AjaySinghMehta/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
@@ -262,6 +263,7 @@
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AjaySinghMehta/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -370,6 +372,7 @@
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AjaySinghMehta/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1955-seat-reservation-manager](https://github.com/AjaySinghMehta/LeetCode/tree/master/1955-seat-reservation-manager) |
