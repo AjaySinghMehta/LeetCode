@@ -93,6 +93,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0394-decode-string) |
 | [0800-letter-case-permutation](https://github.com/AjaySinghMehta/LeetCode/tree/master/0800-letter-case-permutation) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AjaySinghMehta/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/AjaySinghMehta/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
@@ -261,6 +262,7 @@
 | [0394-decode-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AjaySinghMehta/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AjaySinghMehta/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -357,6 +359,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AjaySinghMehta/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AjaySinghMehta/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
