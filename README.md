@@ -22,6 +22,7 @@
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/AjaySinghMehta/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -330,5 +332,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
