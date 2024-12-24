@@ -28,6 +28,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/AjaySinghMehta/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -262,6 +263,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -313,6 +315,7 @@
 | [0816-design-hashset](https://github.com/AjaySinghMehta/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -367,6 +370,7 @@
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
+| [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1955-seat-reservation-manager](https://github.com/AjaySinghMehta/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Iterator
@@ -393,5 +397,10 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/AjaySinghMehta/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
