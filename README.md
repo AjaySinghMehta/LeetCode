@@ -64,6 +64,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/AjaySinghMehta/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## String
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3270-minimum-moves-to-capture-the-queen](https://github.com/AjaySinghMehta/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
 ## Graph
 |  |
 | ------- |
