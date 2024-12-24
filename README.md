@@ -117,6 +117,7 @@
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
 |  |
@@ -263,6 +264,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -312,6 +314,7 @@
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
