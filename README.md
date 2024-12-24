@@ -51,6 +51,7 @@
 | [0001-two-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/AjaySinghMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/AjaySinghMehta/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
@@ -84,6 +85,7 @@
 | [0014-longest-common-prefix](https://github.com/AjaySinghMehta/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0394-decode-string) |
 | [0800-letter-case-permutation](https://github.com/AjaySinghMehta/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -222,6 +224,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/AjaySinghMehta/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -262,6 +265,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AjaySinghMehta/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AjaySinghMehta/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
