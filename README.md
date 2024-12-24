@@ -20,6 +20,7 @@
 | [0816-design-hashset](https://github.com/AjaySinghMehta/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/AjaySinghMehta/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1127-last-stone-weight](https://github.com/AjaySinghMehta/LeetCode/tree/master/1127-last-stone-weight) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -121,6 +122,7 @@
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AjaySinghMehta/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/AjaySinghMehta/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -267,6 +269,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AjaySinghMehta/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/AjaySinghMehta/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -274,6 +277,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/0682-baseball-game) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/AjaySinghMehta/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
