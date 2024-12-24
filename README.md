@@ -34,6 +34,7 @@
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AjaySinghMehta/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AjaySinghMehta/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AjaySinghMehta/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 ## Tree
 |  |
 | ------- |
@@ -275,6 +279,7 @@
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 ## Design
 |  |
 | ------- |
