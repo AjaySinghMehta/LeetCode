@@ -32,6 +32,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
@@ -49,6 +50,7 @@
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/AjaySinghMehta/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -92,6 +94,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AjaySinghMehta/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Tree
 |  |
 | ------- |
@@ -195,6 +199,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/AjaySinghMehta/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -269,6 +274,7 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Design
 |  |
 | ------- |
