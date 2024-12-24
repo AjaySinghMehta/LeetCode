@@ -22,6 +22,7 @@
 | [1127-last-stone-weight](https://github.com/AjaySinghMehta/LeetCode/tree/master/1127-last-stone-weight) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -53,6 +54,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/AjaySinghMehta/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1873-longest-nice-substring](https://github.com/AjaySinghMehta/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/AjaySinghMehta/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
@@ -312,6 +315,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
@@ -335,6 +339,7 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/AjaySinghMehta/LeetCode/tree/master/1127-last-stone-weight) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AjaySinghMehta/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AjaySinghMehta/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1955-seat-reservation-manager](https://github.com/AjaySinghMehta/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
