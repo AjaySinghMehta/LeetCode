@@ -31,6 +31,7 @@
 | [2107-find-unique-binary-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -224,6 +225,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search Tree
 |  |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 | [0816-design-hashset](https://github.com/AjaySinghMehta/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
