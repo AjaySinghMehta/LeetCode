@@ -36,6 +36,7 @@
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/AjaySinghMehta/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
@@ -111,6 +112,7 @@
 | [0075-sort-colors](https://github.com/AjaySinghMehta/LeetCode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
 | [3229-minimum-cost-to-make-array-equalindromic](https://github.com/AjaySinghMehta/LeetCode/tree/master/3229-minimum-cost-to-make-array-equalindromic) |
 ## Backtracking
 |  |
@@ -252,6 +254,7 @@
 | [0682-baseball-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,4 +327,8 @@
 | ------- |
 | [0816-design-hashset](https://github.com/AjaySinghMehta/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
