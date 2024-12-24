@@ -21,6 +21,7 @@
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/AjaySinghMehta/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AjaySinghMehta/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/AjaySinghMehta/LeetCode/tree/master/1127-last-stone-weight) |
 | [1331-path-with-maximum-gold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -196,6 +197,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/AjaySinghMehta/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [0257-binary-tree-paths](https://github.com/AjaySinghMehta/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0394-decode-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AjaySinghMehta/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -266,6 +270,7 @@
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/AjaySinghMehta/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -291,6 +296,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AjaySinghMehta/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AjaySinghMehta/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
