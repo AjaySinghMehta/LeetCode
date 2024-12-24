@@ -30,6 +30,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AjaySinghMehta/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/AjaySinghMehta/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AjaySinghMehta/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -274,6 +275,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AjaySinghMehta/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -303,6 +305,7 @@
 | [0816-design-hashset](https://github.com/AjaySinghMehta/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AjaySinghMehta/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AjaySinghMehta/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
@@ -355,6 +358,7 @@
 | [0817-design-hashmap](https://github.com/AjaySinghMehta/LeetCode/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1211-iterator-for-combination](https://github.com/AjaySinghMehta/LeetCode/tree/master/1211-iterator-for-combination) |
+| [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1955-seat-reservation-manager](https://github.com/AjaySinghMehta/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Iterator
 |  |
@@ -380,4 +384,5 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1767-design-front-middle-back-queue](https://github.com/AjaySinghMehta/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
