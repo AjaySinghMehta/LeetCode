@@ -37,6 +37,7 @@
 | [2107-find-unique-binary-string](https://github.com/AjaySinghMehta/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AjaySinghMehta/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/AjaySinghMehta/LeetCode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AjaySinghMehta/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/AjaySinghMehta/LeetCode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -260,12 +261,14 @@
 | [0969-number-of-recent-calls](https://github.com/AjaySinghMehta/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/AjaySinghMehta/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AjaySinghMehta/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3226-minimum-number-game](https://github.com/AjaySinghMehta/LeetCode/tree/master/3226-minimum-number-game) |
 ## Monotonic Stack
 |  |
